@@ -1,5 +1,5 @@
 Hello viewer.This is a drum Set. I took it's inspiration from one of the udemy courses and then coded it myself to develop my frontend-skills.It can be played using keyboard,mouseclicks and touch.
-Link :- https://marvel0007.000webhostapp.com/playDrum.html
+Link :- https://lanceparker-007.github.io/DrumSet/
 ![](images/DrumSet_preview_1.png)
 It's responsive too.It work's perfectly on any screen.
 ![](images/DrumSet_preview_1.png)
